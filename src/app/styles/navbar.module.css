@@ -1,0 +1,7 @@
+/* these are dummy css classes to learn how to use vanilla css in next */
+
+/* PS:You can use only the camel case notation */
+.toCenter {
+  display: flex;
+  justify-content: center;
+}
